@@ -11,5 +11,3 @@ I am excited about the possibility of contributing to Protofire and am confident
 Best regards,
 
 Andrew Roshchupkin
-sdet.andrew@gmail.com
-Telegram: @Andrew_Roshchupkin
